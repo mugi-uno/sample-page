@@ -1,0 +1,22 @@
+body {
+  padding: 20px;
+}
+
+.form {
+  padding: 16px;
+  border: 1px solid #ccc;
+  background-color: #eee;
+  display: inline-grid;
+  justify-items: center;
+  gap: 8px;
+}
+
+.label {
+  display: grid;
+  grid-template-columns: 80px 200px;
+}
+
+.btn {
+  width: 200px;
+  margin-top: 16px;
+}
